@@ -1,0 +1,34 @@
+_repo: The-Voyage-of-the-Vega-round-Asia-and-Europe-Volume-I-and-Volume-II_24365
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Leslie, Alexander, active 1879-1882
+    gutenberg_agent_id: '26439'
+    url: http://www.gutenberg.org/2009/agents/26439
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nordenskiöld, A. E. (Adolf Erik)
+    alias: Nordenskiold, A. E. (Adolf Erik)
+    birthdate: 1832
+    deathdate: 1901
+    gutenberg_agent_id: '26429'
+    url: http://www.gutenberg.org/2009/agents/26429
+description: ''
+gutenberg_issued: '2008-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northeast Passage'
+- !lcsh 'Arctic regions -- Discovery and exploration'
+- !lcc 'G'
+- !lcsh 'Vega (Ship)'
+title: The Voyage of the Vega round Asia and Europe, Volume I and Volume II
+url: http://www.gutenberg.org/ebooks/24365
