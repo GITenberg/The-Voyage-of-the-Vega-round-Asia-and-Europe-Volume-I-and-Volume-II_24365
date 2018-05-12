@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '26429'
     url: http://www.gutenberg.org/2009/agents/26429
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24365#The-Voyage-of-the-Vega-round-Asia-and-Europe-Volume-I-and-Volume-II
 gutenberg_issued: '2008-01-20'
 gutenberg_type: Text
 identifiers:
